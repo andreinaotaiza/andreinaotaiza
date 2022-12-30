@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @andreinaotaiza
+- ✨ My name is Maria Andreina Otaiza Ramos 
+- 👀 I’m Civil Engineer
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning Unity Engine and Unreal Engine
+- 🌱 I’m currently learning Unity Engine, also VR and AR
 - 💞️ I’m looking to collaborate on game development
 - 📫 How to reach me @andreinaotaiza on social medias
 
